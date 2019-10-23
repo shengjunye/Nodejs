@@ -1,0 +1,14 @@
+{
+  "name": "m2dam_uf4_ec1_sol",
+  "version": "1.0.0",
+  "description": "Exercici de classe 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rubén Martínez Castilla",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^6.0.0"
+  }
+}
